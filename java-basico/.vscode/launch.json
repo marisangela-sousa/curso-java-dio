@@ -1,0 +1,76 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "java-basico_a4f89ab1",
+            "args": [
+                "Mary",
+                "Sousa",
+                "21",
+                "1.50"
+            ],
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.mary.anatomiaclasses.BoletimEstudantil",
+            "projectName": "java-basico_a4f89ab1"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.mary.anatomiaclasses.MinhaClasse",
+            "projectName": "java-basico_a4f89ab1"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.mary.metodos.Usuario",
+            "projectName": "java-basico_a4f89ab1"
+        },
+        {
+            "type": "java",
+            "name": "operadores",
+            "request": "launch",
+            "mainClass": "edu.mary.operadores.operadores",
+            "projectName": "java-basico_a4f89ab1"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.mary.terminal.AboutMe",
+            "projectName": "java-basico_a4f89ab1"
+        },
+        {
+            "type": "java",
+            "name": "TerminaleArgumentos",
+            "request": "launch",
+            "mainClass": "edu.mary.terminal.TerminaleArgumentos",
+            "projectName": "java-basico_a4f89ab1"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.mary.tiposevariaveis.TiposVariaveis",
+            "projectName": "java-basico_a4f89ab1"
+        }
+    ]
+}
